@@ -1,5 +1,4 @@
-# maddiegournay.github.io
-m3t4.media homepage assignment
+
 <html>
 <head>
   <link href="https://fonts.googleapis.com/css?family=Secular+One" rel="stylesheet">
@@ -171,7 +170,7 @@ m3t4.media homepage assignment
  <div class="eye"> </div>
     <div class="circle"> </div>
 
-   <div class="mary"> </div>
+    <div class="mary"> </div>
 
   <div class="cig"> </div>
 
